@@ -5,8 +5,6 @@
 
 # Jedi Droid Ideas
 
-Jedi droid, calling him Cayde for now.
-
 Knows he's a droid, or thinks he's human? Has little (astromech?) sidekick, possibly YO44, or KN3L (colonel), that's with him for repairs, or to facilitate new "powers"/software/hardware upgrades. Powers replicated through tech, push/pull with micro repulsors/electromagnets, much sensors, hyper reactions, lightening?, enhanced agility etc. 
 
 Leaning towards knowing it's a droid, but repeatedly points out he "has the heart of a jedi" (while thumping his chest). Does actually have a human heart stowed/preserved in his chest. That might be a much later reveal though. Like he bangs on about it a lot, possibly revealed in death scene or something, pops it open and is like "look, I told you so". 
