@@ -24,15 +24,3 @@
 ![Milkshake.jpg.jpg](/img/user/Attachments/Milkshake.jpg.jpg)
 
 ![moorfits4.jpg](/img/user/Attachments/moorfits4.jpg)
-
-![Open mic poster sep.jpg](/img/user/Attachments/Open%20mic%20poster%20sep.jpg)
-
-![Open mic v2.jpg](/img/user/Attachments/Open%20mic%20v2.jpg)
-
-![SSC2.jpg](/img/user/Attachments/SSC2.jpg)
-
-![SSC3.jpg](/img/user/Attachments/SSC3.jpg)
-
-![Tax eat.jpg](/img/user/Attachments/Tax%20eat.jpg)
-
-![Supertrain shirt.jpg](/img/user/Attachments/Supertrain%20shirt.jpg)
