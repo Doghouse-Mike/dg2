@@ -16,3 +16,7 @@
 ![IMG_5386.jpg](/img/user/Attachments/IMG_5386.JPG)
 
 ![IMG_5784.jpg](/img/user/Attachments/IMG_5784.JPG)
+
+![ir-logo-hr2.jpg](/img/user/Attachments/ir-logo-hr2.jpg)
+
+![mando.jpg](/img/user/Attachments/mando.jpg)
