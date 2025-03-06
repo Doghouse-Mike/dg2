@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/swrpg/swrpg-starter-ship-decision/","title":"SWRPG Starter Ship Decision","noteIcon":""}
+{"dg-publish":true,"permalink":"/swrpg/swrpg-starter-ship-decision/","title":"SWRPG Starter Ship Decision"}
 ---
 
 
 # SWRPG Starter Ship Decision
 
 This is a change to see if I unborked the plugin
+
+
 
 ## Ultimately Decided On:
 
